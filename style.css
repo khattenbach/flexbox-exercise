@@ -103,3 +103,12 @@ button {
     margin-right: 100px;
     font-size: 24px;
 }
+
+.footer {
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #b8b8b8
+}
